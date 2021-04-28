@@ -1,0 +1,128 @@
+[
+    {
+        "name": "BP",
+        "address": "1765 S Ortonville Rd",
+        "price": "$2.66/Regular",
+        "latitude": 42.828692933609105, 
+        "longitude": -83.4431515446887
+    },
+    {
+        "name": "MOBIL",
+        "address": "1152 S Ortonville Rd",
+        "price": "$2.64/Regular",
+        "latitude": 42.837882559981416, 
+        "longitude": -83.44778640170901
+    },
+    {
+        "name": "ORTONVILLE CITGO",
+        "address": "495 S Ortonville Rd",
+        "price": "$2.62/Regular",
+        "latitude": 42.84556051484708, 
+        "longitude": -83.44744307896677
+    },
+    {
+        "name": "Marathon Gas",
+        "address": "15 M-15",
+        "price": null,
+        "latitude": 42.854495949221345, 
+        "longitude": -83.45276458147154
+    },
+    {
+        "name": "Sunoco Gas Station",
+        "address": "7650 Ortonville Rd",
+        "price": "$3.00/Regular",
+        "latitude": 42.75334133504245, 
+        "longitude": -83.41825903296277
+    },
+    {
+        "name": "BP",
+        "address": "7251 N Main St",
+        "price": null,
+        "latitude": 42.74854294001439, 
+        "longitude": -83.4198871607439
+    },
+    {
+        "name": "BP",
+        "address": "6480 Sashabaw Rd",
+        "price": null,
+        "latitude": 42.73669237668567, 
+        "longitude": -83.3804050453858
+    },
+    {
+        "name": "Mobil",
+        "address": "6889 Sashabaw Rd",
+        "price": "$3.05/Regular",
+        "latitude": 42.74375255951653, 
+        "longitude": -83.38074836812804
+    },
+    {
+        "name": "BP",
+        "address": "8500 Dixie Hwy",
+        "price": "$2.95/Regular",
+        "latitude": 42.748038706868066, 
+        "longitude": -83.45662269416405
+    },
+    {
+        "name": "Shell",
+        "address": "15030 Dixie Hwy",
+        "price": null,
+        "latitude": 42.82010239873991, 
+        "longitude": -83.54588661071618
+    },
+    {
+        "name": "Clarkston CITGO",
+        "address": "6550 Dixie Hwy",
+        "price": null,
+        "latitude": 42.718533928421756, 
+        "longitude": -83.41164741616618
+    },
+    {
+        "name": "Dandy's Gas station/Citgo",
+        "address": "5465 Sashabaw Rd",
+        "price": "$2.56/Regular",
+        "latitude": 42.72256959829517, 
+        "longitude": -83.37903175565293
+    },
+    {
+        "name": "Kroger Fuel Center",
+        "address": "9657 Dixie Hwy",
+        "price": "$2.66/Regular",
+        "latitude": 42.76013916929421, 
+        "longitude": -83.48099861009953
+    },
+    {
+        "name": "Marathon Gas",
+        "address": "16817 Dixie Hwy",
+        "price": null,
+        "latitude": 42.79340326087768, 
+        "longitude": -83.50915107577991
+    },
+    {
+        "name": "Mobil",
+        "address": "8435 E Holly Rd",
+        "price": "$3.00/Regular",
+        "latitude": 42.7858448091258, 
+        "longitude": -83.53284034499477
+    },
+    {
+        "name": "Shell",
+        "address": "6480 Sashabaw Rd",
+        "price": "$2.76/Regular",
+        "latitude": 42.736944538955036, 
+        "longitude": -83.38006172469599
+    },
+    {
+        "name": "Speedway",
+        "address": "6594 Dixie Hwy",
+        "price": "$2.56/Regular",
+        "latitude": 42.72282181897611, 
+        "longitude": -83.41473732166268
+    },
+    {
+        "name": "Kroger Fuel Center",
+        "address": "5990 Sashabaw Rd",
+        "price": "$2.56/Regular",
+        "latitude": 42.72685720994997, 
+        "longitude": -83.37662849727356
+    }
+]
